@@ -1,0 +1,9 @@
+/workspace/ms-additionalcost/src/main/java/pe/edu/vallegrande/eggs/EggsApplication.java
+/workspace/ms-additionalcost/src/main/java/pe/edu/vallegrande/eggs/config/CustomAuthenticationToken.java
+/workspace/ms-additionalcost/src/main/java/pe/edu/vallegrande/eggs/config/SecurityConfig.java
+/workspace/ms-additionalcost/src/main/java/pe/edu/vallegrande/eggs/controller/UtilityDiaryController.java
+/workspace/ms-additionalcost/src/main/java/pe/edu/vallegrande/eggs/dto/FoodDTO.java
+/workspace/ms-additionalcost/src/main/java/pe/edu/vallegrande/eggs/dto/SaleDTO.java
+/workspace/ms-additionalcost/src/main/java/pe/edu/vallegrande/eggs/model/UtilityDiary.java
+/workspace/ms-additionalcost/src/main/java/pe/edu/vallegrande/eggs/repository/UtilityDiaryRepository.java
+/workspace/ms-additionalcost/src/main/java/pe/edu/vallegrande/eggs/service/UtilityDiaryService.java

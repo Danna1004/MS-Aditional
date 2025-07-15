@@ -1,0 +1,10 @@
+pe/edu/vallegrande/eggs/controller/UtilityDiaryController.class
+pe/edu/vallegrande/eggs/EggsApplication.class
+pe/edu/vallegrande/eggs/repository/UtilityDiaryRepository.class
+pe/edu/vallegrande/eggs/config/CustomAuthenticationToken.class
+pe/edu/vallegrande/eggs/config/SecurityConfig$1.class
+pe/edu/vallegrande/eggs/config/SecurityConfig.class
+pe/edu/vallegrande/eggs/service/UtilityDiaryService.class
+pe/edu/vallegrande/eggs/dto/FoodDTO.class
+pe/edu/vallegrande/eggs/dto/SaleDTO.class
+pe/edu/vallegrande/eggs/model/UtilityDiary.class
